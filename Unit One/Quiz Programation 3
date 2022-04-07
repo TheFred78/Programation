@@ -1,0 +1,10 @@
+Solicitar A B C
+mayor = A
+si B > mayor 
+  mayor = A 
+si C > mayor
+  mayor = C
+si (A = B) & (B = C) entonces
+  mostrar "todas son iguales"
+sino 
+  "mostrar en mayor es "mayor"
